@@ -7,7 +7,7 @@ import { IoGitBranch } from "react-icons/io5";
 function Skills(){
     return <>
         <section id="skills" className="min-h-screen relative overflow-hidden px-10 py-24 bg-gradient-to-br from-slate-950 to-blue-950">
-            <div className="text-center md:mb-15 mb-30">
+            <div className="text-center mb-20">
                 <h1 className="text-6xl font-bold bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-600 bg-clip-text text-transparent">
                     Skills
                 </h1>
