@@ -1,16 +1,33 @@
-# React + Vite
+# 🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio built with **React.js**, **Vite**, and **Tailwind CSS** to showcase my skills, projects, education, and contact information. The portfolio features smooth navigation, interactive UI elements, project showcases, and direct access to my resume and social profiles.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- React Icons
 
-## React Compiler
+## 🔗 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[[Portfolio Website](https://your-vercel-link.vercel.app)](https://kirandikshitportfolio.vercel.app/)
 
-## Expanding the ESLint configuration
+## 💻 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/kirandikshit124/Project8-Personal-Portfolio.git
+
+cd Project8-Personal-Portfolio
+
+npm install
+
+npm run dev
+```
+
+## 👨‍💻 Author
+
+**Kiran Dikshit**
+
+Full Stack Developer passionate about building modern web applications and creating seamless user experiences.
