@@ -5,12 +5,6 @@ function Left() {
     const handleOnClick = () => {
         window.open(Resume, "_blank");
     };
-    const handleContactClick = () => {
-        const contactSection = document.getElementById("contact");
-        if (contactSection) {
-            contactSection.scrollIntoView({ behavior: "smooth" });
-        }
-    };
 
     return <>
         <div className="md:w-1/2">
