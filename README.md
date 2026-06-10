@@ -17,7 +17,7 @@ A modern and responsive personal portfolio built with **React.js**, **Vite**, an
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/kirandikshit124/Project8-Personal-Portfolio.git
+git clone (https://github.com/kirandikshit124/Project8-Personal-Portfolio)
 
 cd Project8-Personal-Portfolio
 
