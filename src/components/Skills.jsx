@@ -1,5 +1,5 @@
 import { FaReact, FaNodeJs, FaGithub, FaHtml5, FaCss3 } from "react-icons/fa";
-import { SiMongodb, SiJavascript, SiTailwindcss, SiExpress, SiCplusplus, SiRedux, SiPostman } from "react-icons/si";
+import { SiMongodb, SiJavascript, SiTailwindcss, SiExpress, SiCplusplus, SiRedux, SiPostman, SiMongoose } from "react-icons/si";
 import { VscVscode } from "react-icons/vsc";
 import { IoGitBranch } from "react-icons/io5";
 
@@ -66,6 +66,10 @@ function Skills(){
                 <div className="absolute md:top-60 md:left-15 top-50 left-1 text-orange-600 text-5xl animate-float hover:scale-110 transition duration-300">
                     <SiPostman className="bg-white rounded-full" />   
                     <p className="font-thin text-xs text-white">Postman</p>  
+                </div>
+                <div className="absolute md:top-90 md:right-[35%] top-45 right-2 text-red-800 text-5xl animate-float hover:scale-110 transition duration-300">
+                    <SiMongoose />   
+                    <p className="font-thin text-xs text-white">Mongoose</p>  
                 </div>
             </div>
         </section>
