@@ -2,6 +2,7 @@ import { FaReact, FaNodeJs, FaGithub, FaHtml5, FaCss3 } from "react-icons/fa";
 import { SiMongodb, SiJavascript, SiTailwindcss, SiExpress, SiCplusplus, SiRedux, SiPostman, SiMongoose } from "react-icons/si";
 import { VscVscode } from "react-icons/vsc";
 import { IoGitBranch } from "react-icons/io5";
+import { BiLogoDocker } from "react-icons/bi";
 
 
 function Skills(){
@@ -27,7 +28,7 @@ function Skills(){
                     <SiMongodb />   
                     <p className="font-thin text-xs text-white">MongoDB</p>  
                 </div>
-                <div className="absolute md:top-62 md:left-[35%] top-40 left-[40%] text-cyan-400 text-5xl animate-float hover:scale-110 transition duration-300">
+                <div className="absolute md:top-57 md:left-[35%] top-40 left-[40%] text-cyan-400 text-5xl animate-float hover:scale-110 transition duration-300">
                     <FaReact />   
                     <p className="font-thin text-xs text-white">&nbsp;ReactJs</p>  
                 </div>
@@ -47,7 +48,7 @@ function Skills(){
                     <FaGithub />   
                     <p className="font-thin text-xs text-white">&nbsp; Github</p>  
                 </div>
-                <div className="absolute md:top-80 md:right-[50%] top-95 right-20 text-blue-800 text-5xl animate-float hover:scale-110 transition duration-300">
+                <div className="absolute md:top-80 md:right-[50%] top-95 right-24 text-blue-800 text-5xl animate-float hover:scale-110 transition duration-300">
                     <SiCplusplus />   
                     <p className="font-thin text-xs text-white">&nbsp;&nbsp;&nbsp; C++</p>  
                 </div>
@@ -55,7 +56,7 @@ function Skills(){
                     <SiRedux />   
                     <p className="font-thin text-xs text-white">&nbsp; Redux</p>  
                 </div>
-                <div className="absolute md:top-10 md:right-55 text-blue-500 text-5xl animate-float hover:scale-110 transition duration-300">
+                <div className="absolute md:top-10 md:right-55 right-[85%] text-blue-500 text-5xl animate-float hover:scale-110 transition duration-300">
                     <VscVscode />   
                     <p className="font-thin text-xs text-white"> &nbsp;VsCode</p>  
                 </div>
@@ -63,13 +64,17 @@ function Skills(){
                     <IoGitBranch />   
                     <p className="font-thin text-xs text-white">Git Bash</p>  
                 </div>
-                <div className="absolute md:top-60 md:left-15 top-50 left-1 text-orange-600 text-5xl animate-float hover:scale-110 transition duration-300">
+                <div className="absolute md:top-60 md:left-15 top-50 left-4 text-orange-600 text-5xl animate-float hover:scale-110 transition duration-300">
                     <SiPostman className="bg-white rounded-full" />   
                     <p className="font-thin text-xs text-white">Postman</p>  
                 </div>
                 <div className="absolute md:top-90 md:right-[35%] top-45 right-2 text-red-800 text-5xl animate-float hover:scale-110 transition duration-300">
                     <SiMongoose />   
                     <p className="font-thin text-xs text-white">Mongoose</p>  
+                </div>
+                <div className="absolute md:top-92 md:right-20 top-99 right-1.5 text-white text-5xl animate-float hover:scale-110 transition duration-300">
+                    <BiLogoDocker className="bg-blue-500 rounded-full" />   
+                    <p className="font-thin text-xs text-white">&nbsp; Docker</p>  
                 </div>
             </div>
         </section>
